@@ -4,6 +4,6 @@ def display_board
   row = "   |   "
   line = "-----------"
   puts cell
-  puts row
-  puts line
+  puts 3. times row
+  puts 2.times line
 end
