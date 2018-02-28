@@ -5,8 +5,9 @@ def display_board
   line = "-----------"
   puts cell
   puts row
-  puts row
+  puts line
   puts row
   puts line
-  puts line
+  puts row
+
 end
