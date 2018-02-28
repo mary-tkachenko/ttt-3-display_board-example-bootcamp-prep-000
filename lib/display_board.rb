@@ -3,10 +3,9 @@ def display_board
   cell = "   "
   row = "   |"
   line = "-----------"
-  puts cell
   print row
   print row
-  puts line
+  /n puts line
   print row
   print row
   puts line
