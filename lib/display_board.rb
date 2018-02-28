@@ -7,8 +7,10 @@ def display_board
   print row
   print row
   puts line
-  puts row
+  print row
+  print row
   puts line
-  puts row
+  print row
+  print row
 
 end
