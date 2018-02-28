@@ -1,4 +1,5 @@
 def display_board
   puts "A Tic Tac Toe Board"
-  puts ""   ""
+  cell = "   "
+  puts cell
 end
