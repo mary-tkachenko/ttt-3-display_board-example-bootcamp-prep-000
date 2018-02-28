@@ -1,7 +1,7 @@
 def display_board
   puts "A Tic Tac Toe Board"
   cell = "   "
-  row = "   |  "
+  row = "   |   "
   line = "-----------"
   puts row
   print row
