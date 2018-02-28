@@ -3,13 +3,13 @@ def display_board
   cell = "   "
   row = "   |"
   line = "-----------"
+  puts row
   print row
+  puts line
+  puts row
   print row
-  print line
-  print row
-  print row
-  print line
-  print row
+  puts line
+  puts row
   print row
 
 end
