@@ -5,7 +5,7 @@ def display_board
   line = "-----------"
   print row
   print row
-  /n puts line
+  puts line
   print row
   print row
   puts line
