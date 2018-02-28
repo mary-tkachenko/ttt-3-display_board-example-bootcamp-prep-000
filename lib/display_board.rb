@@ -4,7 +4,8 @@ def display_board
   row = "   |   "
   line = "-----------"
   puts cell
-  puts row
+  print row
+  print row
   puts line
   puts row
   puts line
