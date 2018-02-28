@@ -5,10 +5,10 @@ def display_board
   line = "-----------"
   print row
   print row
-  puts line
+  print line
   print row
   print row
-  puts line
+  print line
   print row
   print row
 
