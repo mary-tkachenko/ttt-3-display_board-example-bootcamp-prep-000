@@ -6,7 +6,7 @@ def display_board
   puts cell
   print row
   print row
-  puts line
+  print line
   print row
   print row
   puts line
